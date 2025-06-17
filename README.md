@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Suheda 👋</h1>
+<h1 align="center">Hi there, I'm Jayathra 👋</h1>
 
 <p align="center">
   🌍 Based in <strong>Oulu, Finland</strong> • 💻 Full-Stack Enthusiast • 📚 Lifelong Learner
