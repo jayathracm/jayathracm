@@ -51,24 +51,31 @@ Passionate about building intuitive and responsive web apps, exploring backend t
 
 ### 💡 Projects
 
-Reel Radar Movie App
-A full-stack web application for browsing movies and TV shows, allowing users to discover content, save favorites, share with community groups, and view cinema showtimes. Integrates TMDB and Finnkino APIs for real-time movie data, TV show details, and showtimes in Finland. Features secure authentication, review system, and social engagement.
+#### 🎬 Reel Radar Movie App  
+A full-stack web application for browsing movies and TV shows, enabling users to:  
+- Discover trending content  
+- Save favorites & share in community groups  
+- View cinema showtimes in Finland  
 
-Live Link: View Live Version (deployed on Azure Static Web Apps)
-Technologies: React.js, Node.js, Express.js, PostgreSQL, TMDB API, Finnkino API, JWT, CSS Modules, Azure, Git, npm
-Contribution: Scrum Master and Project Coordinator; full-stack development including frontend with React Hooks, backend RESTful API with Express, database design with PostgreSQL, integration of external APIs, security implementation, and CI/CD deployment in an agile team environment using Scrum methodology.
+🔗 **[Live Version (Azure)](https://your-live-link.com)**  
+🛠️ **Tech:** React.js • Node.js • Express.js • PostgreSQL • TMDB API • Finnkino API • JWT • CSS Modules • Azure • Git • npm  
+👩‍💻 **Role:** Scrum Master & Project Coordinator — Full-stack development (frontend with React Hooks, backend RESTful API with Express, database design, external API integration, authentication, and CI/CD deployment).  
 
-TodoList OAMK
-A task management application developed as part of coursework at Oulu University of Applied Sciences, enabling users to create, edit, and track to-do items.
+---
 
-Technologies: JavaScript
-Contribution: Full development of the application as a solo or lead project for educational purposes.
+#### ✅ TodoList OAMK  
+A task management app developed as part of coursework at **Oulu University of Applied Sciences**, allowing users to create, edit, and track tasks.  
 
-Web Project
-A collaborative web development project under the toshi-Devs organization, focusing on building interactive web features.
+🛠️ **Tech:** JavaScript  
+👩‍💻 **Role:** Solo Developer — Designed & implemented core features, focusing on CRUD operations and user experience.  
 
-Technologies: JavaScript
-Contribution: Contributor to the project, participating in frontend and backend implementation with a team of 5.
+---
+
+#### 🌐 Web Project (toshi-Devs)  
+A collaborative web project under the **toshi-Devs** organization, building interactive features with a team of 5.  
+
+🛠️ **Tech:** JavaScript  
+👩‍💻 **Role:** Contributor — Worked on frontend & backend features in a team environment.  
 
 
 ---
