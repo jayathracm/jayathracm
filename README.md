@@ -51,6 +51,25 @@ Passionate about building intuitive and responsive web apps, exploring backend t
 
 ### 💡 Projects
 
+Reel Radar Movie App
+A full-stack web application for browsing movies and TV shows, allowing users to discover content, save favorites, share with community groups, and view cinema showtimes. Integrates TMDB and Finnkino APIs for real-time movie data, TV show details, and showtimes in Finland. Features secure authentication, review system, and social engagement.
+
+Live Link: View Live Version (deployed on Azure Static Web Apps)
+Technologies: React.js, Node.js, Express.js, PostgreSQL, TMDB API, Finnkino API, JWT, CSS Modules, Azure, Git, npm
+Contribution: Scrum Master and Project Coordinator; full-stack development including frontend with React Hooks, backend RESTful API with Express, database design with PostgreSQL, integration of external APIs, security implementation, and CI/CD deployment in an agile team environment using Scrum methodology.
+
+TodoList OAMK
+A task management application developed as part of coursework at Oulu University of Applied Sciences, enabling users to create, edit, and track to-do items.
+
+Technologies: JavaScript
+Contribution: Full development of the application as a solo or lead project for educational purposes.
+
+Web Project
+A collaborative web development project under the toshi-Devs organization, focusing on building interactive web features.
+
+Technologies: JavaScript
+Contribution: Contributor to the project, participating in frontend and backend implementation with a team of 5.
+
 
 ---
 
