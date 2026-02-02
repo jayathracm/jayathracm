@@ -1,15 +1,19 @@
 <h1 align="center">Hi there, I'm Jayathra 👋</h1>
 
 <p align="center">
-  🌍 Based in <strong>Oulu, Finland</strong> • 💻 Full-Stack Enthusiast • 📚 Lifelong Learner
+  <strong>Co-Founder & Lead Developer @ Aro Tech</strong><br>
+  🌍 Based in <strong>Oulu, Finland</strong> • 💻 Mobile & Web Developer • 🚀 GPA: 4.86/5.0
 </p>
 
 <p align="center">
   <a href="mailto:jayathracm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/jayathracm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jayathracm">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
 </p>
 
@@ -17,79 +21,108 @@
 
 ### 👩‍🎓 About Me
 
-I'm currently pursuing a **Bachelor's in Information Technology** at Oulu University of Applied Sciences.  
-Passionate about building intuitive and responsive web apps, exploring backend technologies, and deploying full-stack applications with real-world impact.
+I am a high-achieving **Information Technology** student at **Oulu University of Applied Sciences** (GPA 4.86/5.0) and a **Startup Co-Founder**. 
+
+Transitioning from a background in **Civil Engineering**, I apply rigorous problem-solving and architectural structure to software development. I am currently leading the technical development of a fitness management ecosystem in Sri Lanka while completing my studies in Finland.
+
+* **🌱 Currently working on:** A cross-platform React Native mobile app for the fitness industry.
+* **🇫🇮 Languages:** English (Professional) & Finnish (Intermediate / Level 4).
+* **🚀 Goal:** To build scalable, real-world applications that solve tangible business problems.
 
 ---
 
 ### 🧰 Tech Stack
 
 #### 👩‍💻 Languages  
-`JavaScript` • `React` • `TypeScript` • `Kotlin` • `MATLAB`
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 
-#### 🎨 Frontend  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+#### 📱 Mobile & Frontend  
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-#### 🛠️ Backend & Database  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-
-#### 🔧 Tools & Others  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat&logo=puppeteer)
-![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
-![Render](https://img.shields.io/badge/-Render-000000?style=flat&logo=render)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+#### 🛠️ Backend, Cloud & Tools  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-### 💡 Projects
+### 💡 Featured Projects
 
-#### 🎬 Reel Radar Movie App 
-A full-stack web application for browsing movies and TV shows, enabling users to:  
-- Discover trending content  
-- Save favorites & share in community groups  
-- View cinema showtimes in Finland  
- 
-🛠️ **Tech:** React.js • Node.js • Express.js • PostgreSQL • TMDB API • Finnkino API • JWT • CSS Modules • Azure • Git • npm  
-👩‍💻 **Role:** Scrum Master & Project Coordinator — Full-stack development (frontend with React Hooks, backend RESTful API with Express, database design, external API integration, authentication, and CI/CD deployment).  
+#### 🏋️ Aro Tech Fitness Ecosystem (Startup)
+*Co-Founder & Lead Developer | May 2025 – Present*
 
----
+Leading the technical development of a fitness studio management platform.
+- **Mobile:** Built a **React Native (TypeScript)** app with complex booking flows and deep linking.
+- **Backend:** Integrated REST APIs, JWT authentication, and secure data handling.
+- **Status:** Currently onboarding pilot studios in Sri Lanka.
 
-#### ✅ To-do-List
-A task management app developed as part of coursework at **Oulu University of Applied Sciences**, allowing users to create, edit, and track tasks.  
-
-🛠️ **Tech:** JavaScript  
-👩‍💻 **Role:** Solo Developer — Designed & implemented core features, focusing on CRUD operations and user experience.  
+🛠️ **Tech:** React Native • TypeScript • Expo • Axios • Node.js
 
 ---
 
-#### 🌐 MemesHub - Meme Sharing Website (toshi-Devs)  
-A collaborative web project under the **toshi-Devs** organization, building interactive features with a team of 5.  
+#### 🎬 Reel Radar (Advanced Web Development)
+*Project Lead & Full-Stack Developer | Repo: group11-awdp-oamk*
 
-🛠️ **Tech:** JavaScript  
-👩‍💻 **Role:** Contributor — Worked on frontend & backend features in a team environment.  
+A comprehensive full-stack entertainment hub built as part of the Oulu UAS curriculum.
+- **Architecture:** Decoupled React frontend and Node.js/Express backend.
+- **Key Features:** User authentication, favorites management, and Finnkino API integration.
+- **Outcome:** Achieved Grade 5/5 for architectural excellence.
 
+🛠️ **Tech:** React.js • Node.js • PostgreSQL • Azure • REST APIs
+
+---
+
+#### 💬 Real-Time Mobile Chat App
+*Mobile Developer | Repo: Mobile-Project-ChatApp*
+
+A cross-platform mobile messaging application focusing on real-time data synchronization.
+- **UI/UX:** Designed responsive interfaces with intuitive navigation flows.
+- **Core:** Implemented real-time message updates and user state management.
+- **Optimization:** Applied native performance best practices for smooth rendering.
+
+🛠️ **Tech:** React Native • Firebase/Socket.io • Mobile UI Design
+
+---
+
+#### 🚆 UK Rail Management Portal (Freelance)
+*Frontend & Integration Developer | TwinCoreTech*
+
+Completed frontend deliverables and backend integration for a UK-based client.
+- Translated wireframes into responsive React components.
+- Ensured seamless data binding with backend services.
+
+🛠️ **Tech:** React.js • Web Development • API Integration
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jayathracm&show_icons=true&theme=gotham&hide_border=true" alt="Jayathra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayathracm&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🌟 Fun Facts
 
-- I’m a curious problem-solver and can hyper-focus on coding for hours.
-- I drink more coffee than I care to admit. ☕
-- My favorite debugging strategy? Explaining it out loud to my dog 🐶.
+- 🧩 I’m a Civil Engineer turned Code Architect—I love strong foundations in buildings *and* software.
+- ☕ I drink more coffee than I care to admit.
+- 🇫🇮 I have completed Finnish Level 4 and am actively integrating into Finnish culture!
 
 ---
 
 ### 🤝 Let’s Connect!
 
-Whether you're a developer, designer, or just curious — feel free to reach out and say hi!  
+Whether you're a developer, designer, or just curious — feel free to reach out!  
 💬 [LinkedIn](https://linkedin.com/in/jayathracm) • 📧 [Email](mailto:jayathracm@gmail.com)
-
----
