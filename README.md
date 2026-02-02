@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Co-Founder & Lead Developer @ Aro Tech</strong><br>
-  🌍 Based in <strong>Oulu, Finland</strong> • 💻 Mobile & Web Developer • 🚀 GPA: 4.86/5.0
+  🌍 Based in <strong>Oulu, Finland</strong> • 💻 Mobile & Web Developer • 🚀 GPA: 4.80/5.0
 </p>
 
 <p align="center">
