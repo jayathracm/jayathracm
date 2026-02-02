@@ -105,25 +105,6 @@ Completed frontend deliverables and backend integration for a UK-based client.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/jayathracm">
-    <img src="https://github-readme-stats.vercel.app/api?username=jayathracm&show_icons=true&theme=radical&hide_border=true" alt="Jayathra's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jayathracm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayathracm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/jayathracm">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayathracm&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 ### 🌟 Fun Facts
 
 - 🧩 I’m a Civil Engineer turned Code Architect—I love strong foundations in buildings *and* software.
