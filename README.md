@@ -21,7 +21,7 @@
 
 ### 👩‍🎓 About Me
 
-I am a high-achieving **Information Technology** student at **Oulu University of Applied Sciences** (GPA 4.86/5.0) and a **Startup Co-Founder**. 
+I am a high-achieving **Information Technology** student at **Oulu University of Applied Sciences** (GPA 4.80/5.0) and a **Startup Co-Founder**. 
 
 Transitioning from a background in **Civil Engineering**, I apply rigorous problem-solving and architectural structure to software development. I am currently leading the technical development of a fitness management ecosystem in Sri Lanka while completing my studies in Finland.
 
